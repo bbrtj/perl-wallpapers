@@ -24,3 +24,5 @@ Bartosz Jarzyna (bbrtj)
 
 These wallpapers are licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 
+The Perl logo used in these wallpapers is Copyright (c) 2024 Olaf Anders, also licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+
