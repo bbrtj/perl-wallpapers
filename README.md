@@ -9,6 +9,7 @@ These are Perl-themed wallpapers using the new logo of the language.
     <img width="80%" src="generated/perl2.png" title="perl2.png" alt="wallpaper #2">
     <img width="80%" src="generated/perl3.png" title="perl3.png" alt="wallpaper #3">
     <img width="80%" src="generated/perl4.png" title="perl4.png" alt="wallpaper #4">
+    <img width="80%" src="generated/perl5.png" title="perl5.png" alt="wallpaper #5">
 </div>
 
 ## Making your own wallpaper
